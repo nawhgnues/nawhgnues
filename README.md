@@ -1,5 +1,4 @@
-# lol
-
-## memo :
-
-##### lang, FE, Algorithm, CS, mobile ...
+- frontend developer
+- language - javascript, typescript
+- framework - react, next
+- state management - redux, recoil, zustand
