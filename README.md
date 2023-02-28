@@ -1,4 +1,4 @@
-- frontend developer
-- language - javascript, typescript
-- framework - react, next
-- state management - redux, recoil, zustand
+- Languages : javascript, typescript
+- Frameworks : React.js, Next.js
+- State Management - Redux, Recoil, Zustand, React Query
+- Style : css, scss, styled-components, tailwindcss
