@@ -1,4 +1,4 @@
 - Languages : javascript, typescript, dart
-- Frameworks : react, next, flutter
+- Frameworks : react(library), next, flutter
 - State Management - redux, recoil, zustand, react query
 - Style : css, scss, styled-components, tailwindcss
