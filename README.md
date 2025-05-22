@@ -1,8 +1,8 @@
-- Languages : javascript, typescript, dart
-- Frameworks : react(library), next, flutter
-- State Management - redux, recoil, zustand, react query
-- Style : css, scss, styled-components, tailwindcss
+❤️‍🔥 Lately, I've been trying to get better at solving problems, designing architectures, and making the most out of AI.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/nawhgnues?pet-id=1" width="1000" height="120"/>
-</a>
+<br />
+<br />
+
+| Backjoon                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh0326lsh)](https://solved.ac/lsh0326lsh/)                                | ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/lsh0326lsh?theme=neutral)
