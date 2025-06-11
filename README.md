@@ -5,4 +5,4 @@
 
 | Backjoon                                                                                                                                             | LeetCode                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh0326lsh)](https://solved.ac/lsh0326lsh/)                                | ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/lsh0326lsh?theme=neutral)
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh0326lsh)](https://solved.ac/lsh0326lsh/)                                | ![lsh0326lsh](https://leetcard.jacoblin.cool/lsh0326lsh?theme=catppuccinMocha&font=Noto%20Sans%20Tifinagh&ext=activity)
